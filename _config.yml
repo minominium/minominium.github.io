@@ -1,3 +1,5 @@
+theme: jekyll-theme-yat
+
 # Welcome to Jekyll!
 #
 # About Theme
@@ -24,8 +26,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
+title: Minominium.github.io
+email: hinmonium@gmail.com
 author: GitHub User
 
 # Copyright setting
